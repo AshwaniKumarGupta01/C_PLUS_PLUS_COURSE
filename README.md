@@ -105,7 +105,7 @@ g++ ARRAY.CPP -o array
 ### Connect with Me
 
 - GitHub: https://github.com/AshwaniKumarGupta01
-- LinkedIn: www.linkedin.com/in/ashwani-kumar-gupta-8790572b0
+- LinkedIn: https://www.linkedin.com/in/eng-ashwani-gupta/
 
 ## ⭐ Support
 
