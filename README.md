@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/C++&DSA_Banner.png" alt="C++ & DSA Mastery Banner">
+</p>
+
 # 🚀 C++ & DSA Mastery
 
 A comprehensive repository containing 300+ C++ programs and Data Structures & Algorithms implementations designed to strengthen programming fundamentals, problem-solving skills, and technical interview preparation.
